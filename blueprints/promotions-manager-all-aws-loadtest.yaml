@@ -30,6 +30,7 @@ applications:
       #depends_on:
       #  - promotions-manager-api
     
+    
   - promotions-manager-api:      
       #target: vm1
       input_values:
