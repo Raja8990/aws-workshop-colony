@@ -38,7 +38,6 @@ applications:
         - DATABASE_HOST: mongodb
         - RELEASE_NUMBER: $RELEASE_NUMBER
         - API_BUILD_NUMBER: $API_BUILD_NUMBER
-
         
   - mongodb:
       #target: vm1
